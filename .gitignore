@@ -1,6 +1,8 @@
 node_modules/
 *.zip
-app.*
+app.js
+app-old.js
+app2.js
 data.xlsx
 urls2.txt
 .idea/
